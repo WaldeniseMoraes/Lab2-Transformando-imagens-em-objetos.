@@ -18,4 +18,4 @@ Escrita à mão.
 
 O Azure AI Vision Service oferece recursos poderosos para reconhecimento de texto em imagens, incluindo comprovantes fiscais. Vamos seguir um passo a passo para realizar o reconhecimento de texto em comprovantes fiscais usando esse serviço:
 
-**1-Criação de um recurso Azure:**
+**1. Criação de um recurso Azure:**
