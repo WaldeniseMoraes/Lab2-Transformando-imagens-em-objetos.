@@ -81,7 +81,7 @@ _*Resultado do experimento:*_
 
 Analise o texto extraído do comprovante fiscal conforme necessário para suas aplicações ou processos específicos. Isso pode incluir a extração de informações relevantes, como valores, datas, nomes de produtos, etc.
 
-*2. Implemente a integração em seu sistema:
+*2. Implemente a integração em seu sistema:*
 
 Se necessário, implemente a integração do serviço de reconhecimento de texto em seu sistema ou processo de negócios. Isso pode envolver o desenvolvimento de APIs ou integrações personalizadas, dependendo das suas necessidades.
 
