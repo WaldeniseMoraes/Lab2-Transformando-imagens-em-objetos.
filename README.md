@@ -28,17 +28,16 @@ O Azure AI Vision Service oferece recursos poderosos para reconhecimento de text
 
 * Acesse o [portal do Azure](https://portal.azure.com/):
   
-No portal Azure, botão +, criar recurso.
+_*No portal Azure, botão +, criar recurso.*_
 
-![Captura de Tela (130)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/f749177e-53a0-4ed1-adc5-faed720baf94)
+![Captura de Tela (130)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/b7db6f22-e09a-4e03-b312-7dbd510417f8)
 
-
-Ir para categorias, selecionar AI + Machine Learning.
+_*Ir para categorias, selecionar AI + Machine Learning.*_
 
 ![Captura de Tela (131)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/8bdc6a44-a528-44e3-a187-9682300a4ee5)
 
 
-Em AI + Machine Learning, procure Azure AI Services.
+_*Em AI + Machine Learning, procure Azure AI Services.*_
 
 ![Captura de Tela (132)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/d02d0467-392b-4e32-9d99-b63fcb9e993b)
 
@@ -48,5 +47,6 @@ Em AI + Machine Learning, procure Azure AI Services.
 * Selecione o serviço Computer Vision.
 
 ![Captura de Tela (120)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/f7413702-76b6-4e26-af3c-1760ef9ea062)
+
 **Selecione Standard SO e Marque checkbox**.
 
