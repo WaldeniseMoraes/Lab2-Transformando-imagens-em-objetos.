@@ -25,6 +25,7 @@ O Azure AI Vision Service oferece recursos poderosos para reconhecimento de text
 * Crie recurso para começar a usar o serviço de reconhecimento de texto.
 * Crie um novo recurso do tipo Azure Cognitive Services.
 * Selecione o serviço Computer Vision.
+
 ![Captura de Tela (120)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/f7413702-76b6-4e26-af3c-1760ef9ea062)
 **Selecione Standard SO e Marque checkbox**.
 
