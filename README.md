@@ -10,9 +10,9 @@ Análise de imagem 4.0 com o AI Vision Service
 
 Detectar a localização de texto:
 
-Impresso;
+* Impresso;
 
-Escrita à mão.
+* Escrita à mão.
 
 ## Passo a Passo para Reconhecimento de Texto em Comprovantes Fiscais com Azure AI Vision Service
 
