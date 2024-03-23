@@ -59,4 +59,12 @@ _*Selecionar o recurso criado.*_
 
 ![Captura de Tela (134)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/f020696c-0c16-4e6f-84f4-85e6aa875b52)
 
+_*Selecionar extraindo texto de imagens*_
+
+![Captura de Tela (137)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/fb0f3c5a-6644-4648-94ee-170efaaf6d0c)
+
+_*Marca checkbox*_
+
+![Captura de Tela (138)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/74793df6-f67c-4e5b-825a-00517c46879a)
+
 
