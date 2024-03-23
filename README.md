@@ -49,7 +49,7 @@ _*Em AI + Machine Learning, procure Azure AI Services.*_
 
 **Selecione Standard SO e Marque checkbox**.
 
-* Selecione o serviço Computer Vision.
+**2. Selecione o serviço Computer Vision.**
 
 _*No Portal de Visão, [portal do Azure](https://portal.azure.com/), clicar ver todos recursos.*_
 
@@ -67,4 +67,22 @@ _*Marca checkbox*_
 
 ![Captura de Tela (138)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/74793df6-f67c-4e5b-825a-00517c46879a)
 
+_*Fazer upload da imagem desejada.*_
 
+![Captura de Tela (139)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/d0d69be3-9f78-4e6e-97de-766f7c6b21a3)
+
+_*Resultado do experimento:*_
+
+![Captura de Tela (140)](https://github.com/WaldeniseMoraes/Lab2-Transformando-imagens-em-objetos./assets/161647255/1fb42dc8-1e51-4e92-b23f-9920bcc5a7ef)
+
+**3. Insights:**
+
+*1. Analise e utilize o texto extraído:*
+
+Analise o texto extraído do comprovante fiscal conforme necessário para suas aplicações ou processos específicos. Isso pode incluir a extração de informações relevantes, como valores, datas, nomes de produtos, etc.
+
+*2. Implemente a integração em seu sistema:
+
+Se necessário, implemente a integração do serviço de reconhecimento de texto em seu sistema ou processo de negócios. Isso pode envolver o desenvolvimento de APIs ou integrações personalizadas, dependendo das suas necessidades.
+
+_*Lembre-se de consultar a documentação específica do serviço de AI Vision que você está usando para obter informações detalhadas sobre como realizar o reconhecimento de texto em comprovantes fiscais. Além disso, verifique se você está em conformidade com todas as políticas de uso e regulamentações relacionadas ao processamento de documentos fiscais.*_
