@@ -1,8 +1,7 @@
+# Laboratório-02-Projeto:
+***
 # Trabalhando com Visão Computacional
 ***
-## Laboratório-02
-***
-
 Este projeto é um dos laboratório do Bootcamp Microsoft Azure AI Fundamentals, promovido através da parceria entre a Microsoft e a DIO.
 
 ## Reconhecimento Facial e transformação de imagens em Dados no Azure ML
